@@ -1,0 +1,24 @@
+{
+  "tests": [
+    {
+      "name": "Cargo fmt and clippt",
+      "setup": "",
+      "run": "cargo fmt && cargo clippy",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "Run tests",
+      "setup": "",
+      "run": "./test.sh",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    }
+  ]
+}
