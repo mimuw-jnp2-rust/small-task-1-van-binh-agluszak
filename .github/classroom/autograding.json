@@ -8,7 +8,7 @@
       "output": "",
       "comparison": "included",
       "timeout": 1,
-      "points": null
+      "points": 1
     },
     {
       "name": "Run tests",
@@ -18,7 +18,7 @@
       "output": "",
       "comparison": "included",
       "timeout": 1,
-      "points": null
+      "points": 1
     }
   ]
 }
